@@ -55,8 +55,8 @@ TODO/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/
-cd TODO
+git clone https://github.com/Md-Roni024/todo_api
+cd todo_api
 ```
 
 
